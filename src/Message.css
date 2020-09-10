@@ -1,0 +1,15 @@
+.message {
+    padding: 2px;
+    margin: 10px;
+    width: fit-content;
+}
+
+.message__user {
+    margin-left: auto;
+    color: white !important;
+    background-color: #0b81ff !important;
+}
+
+.message__guest {
+    background-color: #e9e9eb !important;
+}
